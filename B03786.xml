@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for the Earl of Roxburgh, and Mr. William Ker his brother, against John Lord Ballenden.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03786</idno>
+            <idno type="STC">Wing I164O</idno>
+            <idno type="STC">ESTC R178656</idno>
+            <idno type="EEBO-CITATION">52612181</idno>
+            <idno type="OCLC">ocm 52612181</idno>
+            <idno type="VID">179476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179476)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2790:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for the Earl of Roxburgh, and Mr. William Ker his brother, against John Lord Ballenden.</title>
+                  <author>Roxburghe, Robert, Earl of, d. 1696.</author>
+                  <author>Roxburghe, John Ker, Duke of, ca. 1680-1741.</author>
+                  <author>Ker, William, d. 1741.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Legal dispute between the immediate family of the Earl of Roxburghe and a cousin, Lord Bellenden, about the entail on the Bellenden estates.</note>
+                  <note>Earl of Roxburghe referred to either Robert, 4th Earl or John Ker, 5th Earl and 1st Duke.</note>
+                  <note>Imperfect: stained with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roxburghe, Robert, --  Earl of, d. 1696 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Roxburghe, John Ker, --  Duke of, ca. 1680-1741 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Ker, William, d. 1741 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Bellenden, John, --  Lord, d. 1707 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Entail --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179476:1" rendition="simple:additions"/>
+            <head>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> FOR The Earl of <hi>Roxburgh,</hi> and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Brother <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </head>
+            <p>THE Deceaſt Lord <hi>Ballenden</hi> be vertue of a Facultie in his Patent of Honour, Named Mr. <hi>John Kerr</hi> youngeſt Son to the Ea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of <hi>Roxburgh</hi> (now Lord <hi>Ballanden</hi>) to ſucceed him in his Dignity and Honours, and ſubſtitute others of the Earls Sons to him, and failz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing of all theſe and the Heirs Male of their Bodies, he ſubſtitute the 2d Son of the Earl of <hi>Roxburgh</hi> for the time being. And to maintain the Honour, he Diſpones to the Lord <hi>Ballenden</hi> and the Heirs of Tailzie about 200000 merks, to which the Earl of <hi>Roxburgh</hi> adds more than 60000 merks; All which is ſtrictly Tailzied under ſeveral irritan<g ref="char:EOLhyphen"/>cies, and the Members of Tailzie prohibit to Contract Debt, or do deids whereby the Eſtate may be deteriorat, in prejudice of the ſucceeding <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Tailzie, providing alwiſe it be Lawfull to the ſaid. <hi>John</hi> Lord <hi>Balland<g ref="char:EOLhyphen"/>en.</hi> and other Members of the Tailzie, to uplift the ſums Aſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gned they alwiſe Reimploying them in favours, and in the Terms of the Tailzie.</p>
+            <p>The Lord <hi>Ballanden</hi> has greatly exe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced the power of uplifting the ſums Diſponed be the late Lord <hi>Ballenden</hi> to him, and other Ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs of Tailzie without Reimploying the ſame: And there being yet fourſcore thouſand merks of the Tailzied ſums in the Earl of <hi>Roxburghs</hi> hand, the Lord <hi>Ballendine</hi> has raiſed a Declarator againſt the Earl of <hi>Roxburgh</hi> De<g ref="char:EOLhyphen"/>clairing it Lawful to him, to uplift the fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſaid ſum of fourſcore thouſand merks, conform to the Reſervation and power in the Tailzie without ne<g ref="char:EOLhyphen"/>ceſſity of reimploying the ſame, that not being his the Debitors Intereſt, But the Intereſt of the Heirs of Tailzie.</p>
+            <p>The Earl of <hi>Roxburgh</hi> makes no oppoſition, but Mr. <hi>William Kerr</hi> his Brother<g ref="char:punc">▪</g> and next Heir of Tailzie failzieing Lord <hi>Ballendens</hi> Sons, has raiſed a Declarator againſt the Lord <hi>Ballenden,</hi> for Declairing that it may not be Lawful for him to uplift, nor for the Earl to pay the foreſaid four<g ref="char:EOLhyphen"/>ſcore thouſand merks, unleſs he reimploy the ſame upon Heritable ſecuri<g ref="char:EOLhyphen"/>ty in the Terms of the Tailzie; And thereupon has Arre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſted in the Earl his hands, and Mr. <hi>William</hi> appeared for himſelf, and though both the E: and he gave the Honours ſuteable to the Relation to the Lord <hi>Ballenden;</hi> Yet conſidering his Lordſhips Circumſtances, being Bleſt with a numerous Family, and that Mr. <hi>William</hi> is the next Heir to his Sons, and deſires no<g ref="char:EOLhyphen"/>thing more, than what was given for mantaining the Honour and Dignity of the Family may be Imployed and preſerved for that end; And that the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the Earl of <hi>Roxburgh</hi> hands may either ſo continue or be ſecured in
+<pb n="2" facs="tcp:179476:2" rendition="simple:additions"/>the Terms of the Tailzie; And for this end, he urged that part of the Tailzie at the Letter <hi>B,</hi> whereby power is reſerved to the Heirs to uplift, receive, and Diſcharge the Sums of Money above-written, providing all<g ref="char:EOLhyphen"/>wiſe they imploy the ſame of new again upon Lands or other ſufficient Heritable Security for mantenance and preſervation of the ſaid Family; And do not by their Deeds deteriorat and prejudge the ſame, from whence it is clear, that the power of uplifting is qualified with a Proviſion to Reimploy; And ſo the preſent Declarator againſt the Earl of <hi>Roxburgh</hi> can not be inſiſted in nor take effect without Reimploying, which is more clear from the Clauſe immediatly proceeding whereby it is expreſly pro<g ref="char:EOLhyphen"/>vided and declared, that it ſhall not be leiſum nor Lawfull to the ſaid <hi>John Kerr</hi> now Lord <hi>Ballenden,</hi> and remanent Heirs of Tailzie and proviſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on, nor their Heirs to ſell, annalzie, or diſpone Redeemablie or Irredeem<g ref="char:EOLhyphen"/>ablie the ſums of Money, Lands, and others thereby provided to them, or to Contract Debts, or do Deeds whereby the ſamen may be evicted, or appryſed from them.</p>
+            <p>It was anſwered for the Purſuer, That by the Tailzie he has the power of uplifting, and the Earl of <hi>Roxburgh</hi> Debitor, is ſufficiently ſecured be his Diſcharge as has been ſeveral times found be the Lords, in the Pro<g ref="char:EOLhyphen"/>ceſſes againſt the other Debitors, and the Earl of <hi>Roxburgh</hi> has no concern in the Reimploying, that being <hi>jus tertii</hi> as to him.</p>
+            <p>And as for Mr. <hi>William Kerr,</hi> the Declarator and Arreiſtment at his in<g ref="char:EOLhyphen"/>ſtance has no Foundation, he not being next Heir of Tailzie, but the Purſuers own Son, to whom he himſelf is Tutor and Adminiſtrator, and ſo he having the power of uplifting is the only proper Judge of the Reim<g ref="char:EOLhyphen"/>ploying, wherein no perſon is concerned, but his own Son, and not any remot Heir, who its hoped ſhall never ſucceed.</p>
+            <p>It was Replyed<g ref="char:punc">▪</g> that the Earl of <hi>Roxburgh</hi> does not urge the reimploy<g ref="char:EOLhyphen"/>ing, but only that the ſums are Arreſted in his hands at the inſtance of Mr. <hi>William Kerr,</hi> who replyes that though he be a Remot Heir of Tail<g ref="char:EOLhyphen"/>zie, yet ſeeing the Purſuer nor his Son can do no Deed to prejudge his Succeſſion, he has very good Intereſt to oppoſe the uplifting unleſs the ſame be Reimployed in the Expreſs. Terms of the Tailzie, and the Honour due to the Contracters of the Tailzie, beſides the Expreſs proviſions there<g ref="char:EOLhyphen"/>of ought to Oblige both Purſuer and Defenders to the ſtrict Obſervance thereof, and there are few Families in <hi>Scotland</hi> who would not accept a leſs value in the ſame terms, and dutifully perform the proviſions and will of the Contracters; And it cannot be ſeen nor thought by what means or upon what Ground the Lord <hi>Ballinden</hi> can pretend to uplift any of the Tailzied Money without reimploying the ſame.</p>
+            <p>Mr. <hi>William Kerr</hi> has likewiſe good action againſt the Lord <hi>Ballenden,</hi> for reimploying of the Money already uplifted, and for declairing his ir<g ref="char:EOLhyphen"/>ritating of the Tailzie by uplifting, and not by Employing; Yet being more concerned in preſerving to the Lord <hi>Ballenden's</hi> Sons what is extant, then in debarring the Lord <hi>Ballendine</hi> from the Liferent thereof, he for<g ref="char:EOLhyphen"/>bears at this time to inſiſt in that Declarator, ſo be it the Lord <hi>Ballenden</hi>
+               <pb n="3" facs="tcp:179476:2"/>either continue the Money where it is, and ſatisfy himſelf with the Annual<g ref="char:EOLhyphen"/>rent or if he uplift, that the ſame be Reimployed in the Terms of the Contract upon good Heritable Security Rendering the like Rent or Annu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lrent Year<g ref="char:EOLhyphen"/>ly, which is the Expreſs Deſign of the Tailzie, whereby at the two doub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e W: W: It is provided, that the Heirs of Tailzie may do no deed where<g ref="char:EOLhyphen"/>by the Eſtate and Living may be Deteriorat or Rendered in an worſe Con<g ref="char:EOLhyphen"/>dition at their Deceaſſes, when the next Heir ſhall Succeed th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t was at the Death of <hi>William</hi> Lord <hi>Ballenden,</hi> and that under Strict Inſ<g ref="char:EOLhyphen"/>tances now if the lifting of Money, and not Reimploying, or Reimploy<g ref="char:EOLhyphen"/>ing not to the Value be not an Deterioration of the Eſtate, and Living from what is was when <hi>William</hi> Lord <hi>Ballenden</hi> the Granter of the Tailzie De<g ref="char:EOLhyphen"/>ceaſt, let any Man judge, and i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there be but on ſmall part Extant of the Taillzied Sums to maintain the ſame Dignity, which formarly was ſupport<g ref="char:EOLhyphen"/>ed by the whole, it is moſt Rational and Juſt, that theſe Remains be Tenderly handled, Carefully preſerved, and Imployed to the beſt Ad<g ref="char:EOLhyphen"/>vantage,</p>
+            <p>
+               <hi>As to the pretence that a Remote Member or Heir of Tailzie hath no Intereſt to Crave Reimployment, It is an obvious miſtake, for there is</hi> a jus q<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſirum <hi>by ſuch reſtrictive Clauſes to all the Members of Tailzie, whoſe Succeſſion in their order, the makers did intend to ſecure thereby. So that all the Members of Tailzie have an Intereſt, that it be not broke: And conſequently may purſue ſuch actions as is neceſsary for that Effect.</hi>
+            </p>
+            <p>
+               <hi>Thus Proceſs was Suſtained upon the Lady</hi> Tarraſe<hi>'s Intereſt and Dilligence; Tho, at the Time only a Remote Heir in</hi> Humbyes <hi>Tailzie, and Proceſs was likewiſe Suſtained at the inſtance of the Remote Heir of the Tailzie of</hi> Ayton; <hi>Tho he was caſt upon another Head. As alſo it is frequent, that Children of a Marriage may Purſue for Securing of what is provided by their Mothers Con<g ref="char:EOLhyphen"/>tract, tho they cannot be Heirs, nor have Acceſs to the Subject during their Pa<g ref="char:EOLhyphen"/>rents Life, and if paraleles were Neceſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; It's certain, that in the matter of precedencie, a Nobleman may contravert the Rank of another, af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er whom, he could not immediatly follow at the time: But it is Enough, that this brings him nearer. But there needs no Remote Reaſonings in ſo clear a point; For if the Interpoſing of Remoter Members or Heirs of Tailzie were not allowed, when the Subject is about to periſh, then the preſent Heritable poſſeſsor, having the command of the next Immediate Heir: might utterly f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt at the Tailzie as to the Subſtitutes, without any poſſibility of Remeed, which is againſt Law and common Senſe.</hi>
+            </p>
+            <p>
+               <hi>And whereas its pretended, that the Lord</hi> Ballendine <hi>hath already Obtain<g ref="char:EOLhyphen"/>ed ſeveral Decreets againſt his Debitors: It is Anſwered, that this is nothing to the preſent purpoſe, becauſe in theſe Decreets there was no Compear<g ref="char:EOLhyphen"/>ance for the Intereſt of the Subſtitute Members of Tailzie, who alone had Intereſt to obſtruct the Payment otherwiſe then upon Reimployment at the Lords ſight that being Incompetent to the Debitors, and as to the pretence that the Lords are not to interpoſe; It is plain, that now upon Mr.</hi> Williams <hi>Craving it. Conform to the Concluſion of his Proceſs Repeated Incidenter, the Lords may and ought to do him and the Reſt of the Subſtitutes Juſtice therein. Beſides that its moſt frequent in many other caſes, to decern or find the Letters orderly proceeded, the Pur<g ref="char:EOLhyphen"/>ſuer
+<pb n="4" facs="tcp:179476:3"/>Reimploying at the Ordinars Sight. It being moſt certain, that an Eluſory Reimployment, ſuch as upon a Houſe without Rent, upon Moveables to be Con<g ref="char:EOLhyphen"/>ſumed; In a word, upon a Bable whatever might be the</hi> pretium affectionis <hi>of it, in place of a Solid Stock, that might Anſwer the Deſign of the parties of preſerving a Fund Suitable to the dignity of the Heirs of Tailzie, will never be permitted in ſuch a caſe.</hi>
+            </p>
+            <p>
+               <hi>Whereas it was Alledged for the Purſuer, that the Arrieſtment Signified nothing, becauſe it follows the Fate of the Declarator, which will Determine both, Its Anſwered; that this is a miſtake of the caſe,</hi>
+            </p>
+            <p>
+               <hi>For the Declarator hath two Concluſions, being</hi> articulatus Libellus,<hi>one in Relation to the</hi> 80000 <hi>Merks, as yet unuplifted in the Earls hands, that it can<g ref="char:EOLhyphen"/>not be uplifted but on Reimployment, as to which only Mr:</hi> William <hi>Repeats it in the preſent Proceſs. But</hi> quoad, <hi>the other Concluſion that the Lord</hi> Ballen<g ref="char:EOLhyphen"/>den <hi>ought to be Decerned to Reimploy about</hi> 200000 <hi>Merks already uplifted by him, on which Dependence Arrieſtment is laid on in the Earls hands. Mr.</hi> William <hi>muſt carry His Proceſs to the Roll; Since he neither does not can now inſiſt in it. But in the mean time, the Earl Contends that be cannot be</hi> in tuto <hi>to pay till this Arrieſtment be louſed, Seeing it will ſtand upon the Second Concluſion of the Lybell, whatever come of the firſt, which, alone can be Deter<g ref="char:EOLhyphen"/>mined in the preſent Proceſs.</hi>
+            </p>
+            <p>In Reſpect whereof, &amp;c.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
